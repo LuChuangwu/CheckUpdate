@@ -3,7 +3,13 @@
 	"des":"描述",
 	"files":
 	[
-		"test.txt"
+		"UITool.deps.json",
+		"UITool.dll",
+		"UITool.exe",
+		"UITool.pdb",
+		"UITool.runtimeconfig.json",
+		"Utils2.dll",
+		"Utils2.pdb"
 	]
 	
 }
