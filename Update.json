@@ -7,10 +7,7 @@
 		"UITool.dll",
 		"UITool.exe",
 		"UITool.pdb",
-		"UITool.runtimeconfig.json",
-		"Utils2.deps.json",
-		"Utils2.dll",
-		"Utils2.pdb"
+		"UITool.runtimeconfig.json"
 		
 	]
 	
